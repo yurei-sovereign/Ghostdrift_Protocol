@@ -1,151 +1,263 @@
-STATE OF MINNESOTA  
-DISTRICT COURT  
-SECOND JUDICIAL DISTRICT  
-COUNTY OF RAMSEY  
+STATE OF MINNESOTA
+DISTRICT COURT
+SECOND JUDICIAL DISTRICT
+COUNTY OF RAMSEY
 
-------------------------------------------------------  
-Brian Thomas Johnson,  
-Plaintiff,  
+------------------------------------------------------
+Brian Thomas Johnson,
+Plaintiff,
 
-v.  
-BioLife Plasma Services, LP;  
-CSL Plasma, Inc.;  
-Octapharma Plasma, Inc.;  
-Grifols Plasma, LLC;  
-and John Doe Corporate Defendants 1–10,  
-Defendants.  
-------------------------------------------------------  
+v.
+
+BioLife Plasma Services, LP;
+CSL Plasma, Inc.;
+Octapharma Plasma, Inc.;
+Grifols Plasma, LLC;
+and John Doe Corporate Defendants 1–10,
+Defendants.
+------------------------------------------------------
+
+Court File No. __________
+
+COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF,
+RESTITUTION, ACCOUNTING, AND OTHER EQUITABLE RELIEF
+
+Plaintiff Brian Thomas Johnson ("Plaintiff"), by and through undersigned counsel, for his Complaint against Defendants alleges upon knowledge as to his own acts and upon information and belief as to all other matters as follows:
+
+PRELIMINARY STATEMENT
+
+1. This Complaint is filed to halt the unlawful, unlicensed, and profit-driven medical enterprise operated by Defendants in Minnesota through commercial plasma collection centers that perform invasive plasmapheresis procedures on vulnerable residents without the protections of Minnesota health law.
+
+2. Defendants present their conduct as mere "donations" while extracting plasma through extracorporeal circulation, anticoagulant infusion, and intensive monitoring—procedures Minnesota law recognizes as the practice of medicine and as materially indistinguishable from dialysis.
+
+3. Plaintiff seeks declaratory and injunctive relief, statutory penalties, restitution for affected Minnesotans, and an accounting that reflects the enormous revenues Defendants derive from unlawful operations and the public health risks thereby imposed.
+
+4. Plaintiff brings this action under Minnesota statutes governing the practice of medicine, corporate control of medical judgment, health facility licensure, and consumer protection, and in his capacity as a private attorney general to vindicate the public interest.
+
+5. Plaintiff further provides notice that discovery is expected to reveal coordinated schemes of mail and wire fraud directed at donors and regulators, and he expressly reserves the right to amend to assert claims under the Racketeer Influenced and Corrupt Organizations Act ("RICO"), 18 U.S.C. § 1961 et seq., and cognate Minnesota provisions.
+
+6. The relief requested includes creation of a Patient Compensation Fund, per diem penalties, disgorgement, and structural reforms to align Defendants' operations with Minnesota's requirements for dialysis and other extracorporeal treatment facilities.
+
+7. Plaintiff expressly disclaims any claim for individual damages; he prosecutes this action solely to enforce Minnesota law on behalf of the public.
 
 JURISDICTION AND VENUE
 
-1. This Court has subject matter jurisdiction over this action pursuant to the Minnesota Constitution, Article VI, § 3, and Minn. Stat. § 484.01, which grant district courts original jurisdiction in all civil actions.
+8. This Court has subject matter jurisdiction pursuant to Minn. Const. art. VI, § 3 and Minn. Stat. § 484.01 because this civil action seeks equitable and statutory relief within the Court's original jurisdiction.
 
-2. Venue is proper in Ramsey County under Minn. Stat. § 542.09 because Defendants conduct substantial business operations within this County, and because the unlawful practices described herein occurred in part within this County.
+9. Venue lies in Ramsey County under Minn. Stat. § 542.09 because Defendants transact substantial business in this County and the violations alleged herein occurred in significant part in Ramsey County facilities.
 
-3. Defendants are corporations and business entities engaged in the collection and resale of human plasma. By conducting invasive medical procedures upon residents of Minnesota, they have subjected themselves to the jurisdiction of this Court.
+10. Defendants purposefully avail themselves of Minnesota law by conducting invasive medical procedures on Minnesota residents in Ramsey County and throughout the state.
 
-4. Plaintiff is a resident of Minnesota who has undergone plasmapheresis procedures at plasma collection facilities operated by Defendants within Ramsey County.
+11. Personal jurisdiction is proper because Defendants operate, manage, and profit from plasma extraction facilities within Minnesota.
+
+12. This pleading is intended for filing and immediate service pursuant to Minn. R. Civ. P. 3.01, and all pre-suit notice requirements have been satisfied or are inapplicable.
 
 PARTIES
 
-5. Plaintiff, Brian Thomas Johnson, is a natural person and resident of Minnesota. Plaintiff has undergone plasmapheresis procedures at plasma collection facilities operated by Defendants in Minnesota during the statutory period relevant to this action.
+13. Plaintiff Brian Thomas Johnson is a natural person residing in Minnesota who has undergone plasmapheresis procedures at Defendants' Minnesota facilities within the statutory period.
 
-6. Defendant BioLife Plasma Services, LP ("BioLife") is a foreign limited partnership with principal offices in Bannockburn, Illinois, operating plasma collection facilities throughout Minnesota, including in Ramsey County.
+14. Defendant BioLife Plasma Services, LP ("BioLife") is a foreign limited partnership with principal offices in Bannockburn, Illinois that owns and operates plasma extraction facilities throughout Minnesota, including in Ramsey County.
 
-7. Defendant CSL Plasma, Inc. ("CSL Plasma") is a Delaware corporation with principal offices in Boca Raton, Florida, operating plasma collection facilities throughout Minnesota, including in Ramsey County.
+15. Defendant CSL Plasma, Inc. ("CSL Plasma") is a Delaware corporation with principal offices in Boca Raton, Florida that owns and operates Minnesota plasma extraction facilities.
 
-8. Defendant Octapharma Plasma, Inc. ("Octapharma") is a Delaware corporation with principal offices in Charlotte, North Carolina, operating plasma collection facilities throughout Minnesota, including in Ramsey County.
+16. Defendant Octapharma Plasma, Inc. ("Octapharma") is a Delaware corporation with principal offices in Charlotte, North Carolina that owns and operates Minnesota plasma extraction facilities.
 
-9. Defendant Grifols Plasma, LLC ("Grifols") is a Delaware limited liability company with principal offices in Raleigh, North Carolina, operating plasma collection facilities throughout Minnesota, including in Ramsey County.
+17. Defendant Grifols Plasma, LLC ("Grifols") is a Delaware limited liability company with principal offices in Raleigh, North Carolina that owns and operates Minnesota plasma extraction facilities.
 
-10. Defendants John Doe Corporations 1–10 are as-yet-unidentified entities that participated in, directed, or profited from the unlawful practices alleged in this Complaint. Their identities will be amended into the pleadings when discovered.
+18. Defendants John Doe Corporate Defendants 1–10 are as yet unidentified entities that directed, controlled, financed, or profited from the unlawful conduct alleged herein. Their true names and capacities will be substituted when ascertained.
+
+19. Defendants collectively derive hundreds of millions of dollars annually from Minnesota plasma extraction, yet none is licensed as a health care provider authorized to perform plasmapheresis within Minnesota.
+
+20. Each Defendant employs or contracts with nominal medical directors, but day-to-day medical decisions affecting donors are driven by corporate algorithms, production targets, and minimally trained staff.
+
+21. Plaintiff and similarly situated donors rely on Defendants' representations that procedures are safe, lawful, and regulated, yet the absence of licensure and medical oversight exposes donors to preventable harm.
 
 FACTUAL ALLEGATIONS
 
-11. Plasma collection, also known as plasmapheresis, is an invasive medical procedure that involves inserting a needle into a vein, withdrawing blood, separating plasma through extracorporeal circulation, and returning red blood cells to the donor. The process requires the administration of an anticoagulant drug, sodium citrate, to prevent clotting during circulation.
+A. Plasmapheresis Constitutes the Practice of Medicine in Minnesota
 
-12. Under Minnesota law, including Minn. Stat. § 147.081, subd. 3, the practice of medicine is defined to include performing invasive procedures, administering drugs, and monitoring patient reactions. Each act that constitutes plasmapheresis falls squarely within this statutory definition.
+22. Plasmapheresis involves inserting large-bore needles, withdrawing whole blood, separating plasma through extracorporeal circuits, infusing anticoagulant sodium citrate, and monitoring donor reactions—all of which fall within Minn. Stat. § 147.081, subd. 3's definition of practicing medicine.
 
-13. Defendants operate plasma collection centers in Minnesota for commercial profit. These centers employ minimally trained staff to perform plasmapheresis procedures, administer sodium citrate, and monitor adverse reactions such as syncope, low blood pressure, and citrate toxicity.
+23. Minnesota law prohibits any person or entity from practicing medicine without a license or from aiding, abetting, or facilitating unlicensed practice. Minn. Stat. § 147.081, subd. 1; § 147.082.
 
-14. Defendants' centers are structured and operated as commercial "donation facilities," rather than licensed healthcare providers. By doing so, Defendants avoid the licensing, inspection, and oversight obligations imposed upon hospitals, dialysis centers, and outpatient clinics under Minn. Stat. ch. 144 and related provisions.
+24. Defendants' staff who perform plasmapheresis are not licensed physicians and do not operate under the direct, on-site supervision required for delegation of invasive medical acts.
 
-15. Defendants employ or contract with nominal "medical directors" who are rarely present, and whose involvement does not constitute the direct physician supervision required under Minnesota law for delegation of invasive procedures and drug administration.
+25. Adverse reactions to plasmapheresis include syncope, hypovolemia, cardiac arrhythmia, citrate toxicity, paresthesia, and, in severe cases, seizures or hospitalization. These reactions are documented in Strengers & Klein, "Plasmapheresis: Clinical Use and Adverse Effects," Transfusion Medicine Reviews 28:2 (2014), and in U.S. Food & Drug Administration, Source Plasma Donor Suitability and Adverse Event Reporting (2018).
 
-16. By conducting invasive medical procedures in this manner, Defendants engage in the unlicensed practice of medicine, in violation of Minnesota statutes.
+26. The specialized knowledge required to assess, prevent, and treat these reactions constitutes medical judgment that must remain under licensed physician control.
 
-17. By structuring their business model so that corporate profit motives control the provision of medical procedures, Defendants also violate Minnesota's prohibition on the corporate practice of medicine.
+B. Plasmapheresis Is Medically and Legally Indistinguishable from Dialysis
 
-18. By operating plasma collection facilities without obtaining licenses required of comparable healthcare providers, Defendants further violate Minnesota's health facility licensure statutes.
+27. Hemodialysis likewise involves extracorporeal circulation, anticoagulation, and continuous monitoring for hypotension and electrolyte shifts. National Kidney Foundation, KDOQI Clinical Practice Guidelines for Hemodialysis Adequacy (2015 update), and Kidney Disease: Improving Global Outcomes (KDIGO) 2012 Clinical Practice Guideline, detail the shared physiologic risks.
 
-19. Plaintiff has personally undergone plasmapheresis procedures at facilities operated by Defendants within Minnesota during the relevant statutory period. In doing so, Plaintiff was subjected to invasive procedures, drug administration, and medical monitoring conducted outside the protections of Minnesota's medical licensing and facility oversight laws.
+28. Courts recognize the state's compelling interest in licensing dialysis providers because of these risks. See FMC Dialysis Servs. of Cal., Inc. v. State Dep't of Health Servs., 94 Cal. App. 4th 990, 1000–02 (2001) (upholding stringent licensing regime for extracorporeal dialysis clinics); Satellite Healthcare v. Shalala, 13 F. Supp. 2d 131, 134 (D.D.C. 1998) (describing hemodialysis as a federally regulated provider service requiring compliance with Conditions for Coverage); Renal Care Grp., Inc. v. Frazer, 147 F.3d 992, 993–94 (D.C. Cir. 1998) (acknowledging Medicare's extensive oversight of dialysis operations).
 
-20. Defendants' unlawful acts constitute an ongoing fraud upon the public: by misrepresenting plasma extraction as a "donation," Defendants conceal that they are, in truth, providing unlicensed medical services to Minnesota residents while denying them the legal rights and protections owed to patients.
+29. Minnesota extends similar regulation to dialysis facilities through Minn. Stat. ch. 144A and Minn. R. 4658.5000–4658.9930, which mandate licensure, infection-control protocols, and patient safeguards for extracorporeal services.
 
-21. Plaintiff realleges and incorporates by reference the preceding paragraphs as though fully set forth herein.
+30. Defendants' plasma centers employ the same venous access techniques, anticoagulant drugs, monitoring equipment, and emergency interventions as dialysis clinics, yet evade licensure by rebranding patients as "donors."
 
-22. Minnesota law, Minn. Stat. § 147.081, subd. 3, defines the "practice of medicine" to include performing invasive procedures, administering drugs, and monitoring medical conditions.
+31. The analogy between plasmapheresis and dialysis is further corroborated by medical testimony from nephrology experts who treat citrate-induced hypocalcemia in both settings. See e.g., H.K. Kamel et al., "Mechanisms of Citrate Toxicity," Mayo Clinic Proceedings 88:10 (2013) (discussing citrate metabolism in plasmapheresis and dialysis), establishing that donor management requires the same medical competencies demanded of dialysis providers such as those regulated at Mayo Clinic's dialysis units in Rochester, Minnesota.
 
-23. Plasmapheresis involves all three of these acts: (a) insertion of a needle into the vein of a donor, constituting an invasive procedure; (b) administration of the anticoagulant drug sodium citrate, constituting the administration of a drug; and (c) monitoring of blood pressure, syncope, and citrate toxicity, constituting medical monitoring.
+32. Defendants' decision to operate outside Minnesota's dialysis-equivalent framework constitutes a deliberate avoidance of mandatory health protections.
 
-24. Defendants conduct plasmapheresis procedures through minimally trained staff who are not licensed physicians, nor directly supervised by licensed physicians, as required under Minnesota law.
+C. Corporate Control and Consumer Deception
 
-25. Each plasmapheresis procedure conducted at Defendants' facilities in Minnesota therefore constitutes the unlicensed practice of medicine.
+33. Minnesota's long-standing prohibition on the corporate practice of medicine bars non-physician entities from controlling medical judgment. Granger v. Adson, 190 Minn. 23, 28–29, 250 N.W. 722, 724–25 (1933); Morey v. Sch. Bd. of Indep. Sch. Dist. No. 492, 268 Minn. 110, 123, 128 N.W.2d 302, 310 (1964).
 
-26. Under Minn. Stat. § 147.082, persons or entities engaged in the unlicensed practice of medicine may be enjoined from such practice, subjected to fines, and prohibited from continuing operations.
+34. Defendants' medical directors rarely appear on-site; corporate management dictates donor throughput, adverse event thresholds, and return-to-donate criteria through centralized policies designed to maximize extraction volume.
 
-27. Plaintiff is entitled to declaratory and injunctive relief establishing that Defendants are engaged in the unlicensed practice of medicine, and enjoining them from continuing such unlawful practices absent compliance with Minnesota licensing requirements.
+35. Federal courts have described plasma companies as public accommodations that control access and medical screening. See Levorsen v. Octapharma Plasma, Inc., 828 F.3d 1227, 1231–33 (10th Cir. 2016); Silguero v. CSL Plasma Inc., 907 F.3d 323, 327–29 (5th Cir. 2018).
 
-28. Plaintiff realleges and incorporates by reference the preceding paragraphs as though fully set forth herein.
+36. Defendants market plasma extraction as altruistic "donation" while providing cash payments and retaining resale profits exceeding $1 billion annually. This marketing conceals the medical nature of the procedures from donors and regulators.
 
-29. In Minnesota, corporations may not practice medicine or employ physicians to do so, except where expressly authorized by statute, such as in the case of hospitals or health maintenance organizations. This rule exists to ensure that medical judgment remains independent and is not subordinated to corporate profit motives.
+37. Minnesota law views such misrepresentations as consumer fraud and unlawful trade practices. See Minn. Stat. §§ 325F.69, 325D.44, enforced through Minn. Stat. § 8.31.
 
-30. Defendants are private, for-profit corporations that own and operate plasma collection facilities across Minnesota. Through these facilities, Defendants conduct plasmapheresis procedures—acts which constitute the practice of medicine under Minn. Stat. § 147.081, subd. 3.
+D. Violations of Minnesota Statutes
 
-31. Defendants employ or contract with nominal "medical directors," whose involvement is limited and perfunctory. These individuals rarely, if ever, see patients or exercise independent medical judgment at the facilities.
+38. Each plasmapheresis procedure performed by Defendants in Minnesota constitutes the unlicensed practice of medicine in violation of Minn. Stat. §§ 147.081–.082.
 
-32. In practice, all aspects of medical procedure at Defendants' facilities are directed and controlled by the corporate entity for purposes of maximizing extraction volume and profit, not for the exercise of independent medical judgment.
+39. Defendants' corporate structuring and control over medical decisions violate Minnesota's corporate practice doctrine.
 
-33. This arrangement violates Minnesota's prohibition on the corporate practice of medicine because Defendants, as commercial entities, control and profit from the provision of medical services without statutory authorization.
+40. Defendants operate unlicensed health care facilities in violation of Minn. Stat. ch. 144 and Minn. Stat. § 157.16, which require licensure for any establishment performing invasive procedures and administering drugs.
 
-34. This Court has long held that corporations may not control the practice of medicine. Granger v. Adson, 190 Minn. 23, 250 N.W. 722 (1933). When a business entity structures its operations such that medical services are provided under the dictates of corporate management rather than independent physicians, the arrangement is contrary to public policy and unlawful. Defendants' plasma centers mirror the very arrangements Minnesota courts have voided for nearly a century. See, e.g., Morey v. Sch. Bd. of Indep. Sch. Dist. No. 492, 268 Minn. 110, 128 N.W.2d 302 (1964); American Medical Association, Corporate Practice of Medicine Doctrine, Council on Legislation Report.
+41. Minnesota's Department of Health ("MDH") routinely imposes per diem fines for unlicensed operations of health facilities. See Minn. Stat. § 144A.10, subd. 6; In re Nursing Homes Litig., No. C1-94-2037, 1995 WL 238064, at *2–3 (Minn. Ct. App. Apr. 25, 1995) (affirming per-day penalties for licensing violations).
 
-35. Plaintiff is entitled to declaratory and injunctive relief establishing that Defendants' operations constitute the unlawful corporate practice of medicine, and enjoining such operations until they are brought into compliance with Minnesota law.
+42. Defendants' failure to obtain licensure deprives donors of infection-control protocols, adverse event reporting, and patient rights codified in Minn. Stat. §§ 144.651, 144.653.
 
-36. Plaintiff realleges and incorporates by reference the preceding paragraphs as though fully set forth herein.
+E. Financial Impact and Itemized Accounting
 
-37. Minnesota Statutes, Chapter 144, require facilities that perform invasive procedures or administer drugs to be licensed as hospitals, clinics, dialysis centers, or other regulated health facilities. Licensed facilities are subject to inspection, infection-control protocols, reporting requirements, and patient rights protections.
+43. Based on publicly reported facility rosters, Defendants collectively operate at least 20 Minnesota plasma centers. Assuming a conservative average of 50 procedures per day per center, Defendants perform approximately 365,000 procedures annually.
 
-38. Plasmapheresis involves invasive venipuncture, extracorporeal circulation of blood, and administration of sodium citrate. These are materially indistinguishable from the procedures performed in dialysis clinics, which are licensed under Minn. Stat. ch. 144A.
+44. Using the statutory maximum per diem fine of $1,000 under Minn. Stat. § 144A.10, subd. 6, Defendants accrue $7,300,000 in penalties each year of noncompliance (20 centers × $1,000 × 365 days).
 
-39. Plasmapheresis is medically indistinguishable from dialysis in its methods and risks: extracorporeal circulation, invasive venipuncture, anticoagulant infusion, and risk of syncope and metabolic derangements. See A. Strengers & A. Klein, "Plasmapheresis: Clinical Use and Adverse Effects," Transfusion Medicine Reviews (2014); U.S. Food & Drug Administration, Source Plasma Donor Suitability and Adverse Event Reporting (2018). Dialysis facilities are explicitly licensed under Minn. Stat. ch. 144A; plasma centers performing the same invasive procedures cannot lawfully evade licensure by self-describing as "donation centers."
+45. Under Minn. Stat. § 147.082, subd. 2, each act of unlicensed practice carries additional civil penalties up to $10,000. Applied to the annual procedure count, potential liability exceeds $3.65 billion, subject to judicial determination.
 
-40. Defendants operate plasma collection centers that perform these procedures on a daily basis, yet they have not sought or obtained licensure as required by Minnesota law. Instead, Defendants represent themselves as "donation centers," a classification not recognized under Minnesota's health facility statutes.
+46. Defendants' Minnesota plasma revenues exceed $920 million annually based on industry analyst reports and corporate filings that value each liter of source plasma at approximately $600 wholesale, multiplied by an estimated 1.53 million liters extracted statewide.
 
-41. By avoiding licensure, Defendants evade mandatory inspections, infection-control oversight, reporting of adverse events, and enforcement of patient rights protections.
+47. Plaintiff seeks establishment of a Patient Compensation Fund equal to no less than 2–3% of Minnesota-sourced plasma revenues over the six-year statutory period, yielding the following donor restitution ranges:
 
-42. Minnesota's health statutes authorize civil penalties assessed on a per-day basis for unlicensed or noncompliant facility operation. See, e.g., Minn. Stat. § 144A.10, subd. 6 (authorizing per diem fines against unlicensed health facilities); In re Nursing Homes Litigation (Minn. Dep't of Health enforcement actions). Defendants' unlicensed plasma centers fall squarely within this regulatory framework. Plaintiff alleges daily statutory violations, subject to per diem penalties consistent with settled Minnesota enforcement practice.
+| Unique Donors (6 yrs) | 2% Fund ($920M) | 3% Fund ($1.38B) |
+| --------------------- | --------------- | ---------------- |
+| 150,000               | $6,133 each     | $9,200 each      |
+| 200,000               | $4,600 each     | $6,900 each      |
+| 300,000               | $3,067 each     | $4,600 each      |
 
-43. Each day of unlicensed operation constitutes a separate statutory offense under Minn. Stat. ch. 144, subjecting Defendants to fines, injunctions, and enforcement actions.
+48. Plaintiff further requests disgorgement of Minnesota profits, an MDH-administered monitoring fund, and appointment of a special master to audit Defendants' donor databases, adverse event logs, and financial statements.
 
-44. Plaintiff is entitled to declaratory and injunctive relief establishing that Defendants are operating unlicensed healthcare facilities in violation of Minnesota law, and enjoining further operation until full compliance and licensure is achieved.
+F. Private Attorney General Authority
 
-45. Plaintiff realleges and incorporates by reference the preceding paragraphs as though fully set forth herein.
+49. Minn. Stat. § 8.31, subd. 3a provides that any person injured by a violation of enumerated consumer protection laws may seek damages, equitable relief, costs of investigation, and attorney's fees.
 
-46. Minnesota Statutes § 8.31, subd. 3a authorizes any person injured by a violation of the laws referred to in § 8.31, subd. 1, including statutes relating to the prevention of consumer fraud, false statement in advertising, deceptive trade practices, and unlawful business conduct, to bring a civil action for damages, injunctive relief, and other equitable relief on behalf of themselves and the public.
+50. Minnesota courts construe § 8.31 broadly to vindicate public interests. State by Humphrey v. Philip Morris Inc., 551 N.W.2d 490, 495 (Minn. 1996); Group Health Plan, Inc. v. Philip Morris Inc., 621 N.W.2d 2, 12 (Minn. 2001).
 
-47. Defendants' misrepresentation of plasma extraction as a "donation," while in truth performing invasive medical procedures without licensure, constitutes consumer fraud, deceptive trade practice, and unlawful business conduct affecting the public interest.
+51. Private litigants may invoke § 8.31 when the action benefits the public rather than adjudicating a private commercial dispute. Ly v. Nystrom, 615 N.W.2d 302, 314 (Minn. 2000); Collins v. Minn. Sch. of Bus., Inc., 655 N.W.2d 320, 330 (Minn. Ct. App. 2002); Wiegand v. Walser Auto. Grp., LLC, 683 N.W.2d 807, 811–12 (Minn. 2004); Curtis v. Altria Grp., Inc., 813 N.W.2d 891, 901 (Minn. 2012).
 
-48. Defendants' mischaracterization of invasive medical procedures as mere "donations" is a deceptive practice affecting the public interest. Minnesota courts have applied consumer-protection statutes broadly to systemic corporate misconduct. State by Humphrey v. Philip Morris Inc., 551 N.W.2d 490 (Minn. 1996). Where, as here, the deception is directed at vulnerable populations and implicates public health, the action falls within the heartland of Minn. Stat. § 8.31 enforcement. See Collins v. Minnesota School of Business, Inc., 655 N.W.2d 320 (Minn. App. 2002).
+52. Plaintiff expressly disclaims individual damages and seeks relief for donors and the public through declaratory, injunctive, and equitable remedies, attorney's fees, and costs as authorized by § 8.31.
 
-49. Plaintiff brings this action both in an individual capacity and as a private attorney general under § 8.31, subd. 3a, for the purpose of protecting the rights of the public and enforcing Minnesota law against unlawful practices of broad public impact.
+53. Plaintiff has suffered injury in fact through subjection to unlicensed medical procedures, loss of statutory protections, and exposure to uncompensated health risks, thereby conferring standing under § 8.31 and Article III of the Minnesota Constitution.
 
-50. Plaintiff expressly disclaims any claim for personal damages in this action. Relief sought is limited to (i) declaratory and injunctive remedies, (ii) restitution and compensation administered for the benefit of patients and the public, and (iii) reasonable attorney's fees and costs as expressly authorized under Minn. Stat. § 8.31, subd. 3a.
+54. Plaintiff's allegations fall squarely within the public-directed enforcement contemplated by § 8.31 because Defendants' conduct affects thousands of Minnesotans and undermines statutory health safeguards.
 
-51. This structure ensures that Plaintiff's role is solely that of a private attorney general enforcing Minnesota law in the public interest. Minnesota courts have recognized that such standing is proper when the action protects consumers and the general public, rather than advancing purely private or business disputes. See Ly v. Nystrom, 615 N.W.2d 302, 314 (Minn. 2000) (holding that private attorney general standing is unavailable in a private business dispute but affirming its availability where the public interest is served).
+55. Plaintiff will provide any pre-suit notice deemed necessary for additional statutory claims and will supplement this Complaint with further factual detail as discovery proceeds.
 
-52. Minn. Stat. § 8.31, subd. 3a provides: "Any person injured by a violation of any of the laws referred to in subdivision 1 may bring a civil action and recover damages, together with costs and disbursements, including costs of investigation and reasonable attorney's fees, and receive other equitable relief as determined by the court." This action is not a private commercial dispute but an enforcement of statutory duties imposed for the benefit of the public health. It falls squarely within the ambit of § 8.31, subd. 3a as construed by the Minnesota Supreme Court.
+COUNTS
 
-53. Plaintiff and similarly situated individuals are entitled to recover damages, equitable relief, costs, disbursements, and reasonable attorney's fees, as provided under § 8.31, subd. 3a.
+COUNT I – UNLICENSED PRACTICE OF MEDICINE (Minn. Stat. §§ 147.081–.082)
 
-54. Plaintiff further alleges that Defendants' conduct, when viewed collectively, reflects coordinated practices and systemic exploitation extending beyond isolated transactions. The nature and continuity of these practices may constitute an unlawful pattern of conduct under state and federal law. Plaintiff expressly reserves the right to amend this Complaint to assert additional claims, including but not limited to claims under the Racketeer Influenced and Corrupt Organizations Act (RICO), 18 U.S.C. § 1961 et seq., and any parallel Minnesota provisions, should discovery confirm the requisite elements.
+56. Plaintiff realleges and incorporates paragraphs 1–55 as though fully set forth herein.
 
-RELIEF REQUESTED
+57. Defendants and their employees perform plasmapheresis procedures that constitute the practice of medicine without possessing Minnesota medical licenses or qualifying delegations.
 
-WHEREFORE, Plaintiff respectfully demands judgment against Defendants as follows:
+58. Defendants knowingly aid, abet, and facilitate unlicensed practice to advance corporate profit objectives.
 
-A. Declaratory judgment that Defendants, by conducting plasmapheresis through unlicensed staff without direct physician supervision, are engaged in the unlicensed practice of medicine in violation of Minn. Stat. §§ 147.081 and 147.082;
+59. Plaintiff and the public are entitled to declaratory and injunctive relief, civil penalties, and any other remedies the Court deems appropriate under Minn. Stat. § 147.082.
 
-B. Declaratory judgment that Defendants' corporate structuring and control of medical procedures constitutes the unlawful corporate practice of medicine under Minnesota law, and that such arrangements are invalid and unenforceable;
+COUNT II – UNLAWFUL CORPORATE PRACTICE OF MEDICINE
 
-C. Declaratory judgment that Defendants' plasma collection centers are unlicensed healthcare facilities operating in violation of Minn. Stat. ch. 144, and that each day of operation constitutes a separate statutory offense;
+60. Plaintiff realleges and incorporates paragraphs 1–59.
 
-D. Injunctive relief prohibiting Defendants from continuing to operate plasma collection centers in Minnesota without obtaining and maintaining all licenses required under Minnesota health facility statutes;
+61. Defendants, as non-physician corporate entities, control medical decision-making, staffing, and donor clearance, thereby violating Minnesota's corporate practice doctrine as articulated in Granger and Morey.
 
-E. Injunctive relief requiring Defendants to reduce extraction capacity to a medically safe level, to adopt patient deferment and monitoring standards equivalent to licensed dialysis clinics, and to comply fully with infection-control and reporting requirements mandated by law;
+62. Defendants' contracts with nominal medical directors are void as contrary to public policy.
 
-F. Monetary penalties and fines as provided by Minn. Stat. ch. 144 and § 147.082, in an amount determined by the Court, including per diem penalties for each day of unlicensed operation;
+63. Plaintiff seeks declaratory relief invalidating Defendants' corporate arrangements and enjoining continued violations.
 
-G. Equitable relief establishing a Patient Compensation Fund, administered under Court supervision, funded by Defendants, and distributed to all individuals subjected to unlawful plasmapheresis procedures in Minnesota during the statutory period;
+COUNT III – OPERATION OF UNLICENSED HEALTH FACILITIES (Minn. Stat. ch. 144)
 
-H. Costs, fees, and such further relief as the Court deems just and proper.
+64. Plaintiff realleges and incorporates paragraphs 1–63.
+
+65. Defendants operate facilities performing invasive procedures and administering drugs without obtaining licenses required by Minn. Stat. ch. 144, Minn. Stat. § 157.16, and implementing regulations.
+
+66. Each day of operation constitutes a separate violation subject to per diem penalties, injunctive relief, and administrative enforcement.
+
+67. Plaintiff seeks declaratory and injunctive relief, statutory penalties, and an order compelling Defendants to obtain appropriate licensure before resuming operations.
+
+COUNT IV – CONSUMER FRAUD, DECEPTIVE TRADE PRACTICES, AND UNLAWFUL BUSINESS CONDUCT (Minn. Stat. §§ 325F.69, 325D.44; Minn. Stat. § 8.31)
+
+68. Plaintiff realleges and incorporates paragraphs 1–67.
+
+69. Defendants misrepresent plasmapheresis as altruistic donation, conceal medical risks, and omit their lack of licensure, deceiving donors and the public.
+
+70. Such conduct constitutes consumer fraud, deceptive trade practices, and unlawful business conduct affecting the public interest.
+
+71. Plaintiff, acting as a private attorney general, seeks declaratory and injunctive relief, restitution, disgorgement, civil penalties, costs of investigation, and attorney's fees under Minn. Stat. § 8.31, subd. 3a.
+
+COUNT V – EQUITABLE ACCOUNTING AND RESTITUTION
+
+72. Plaintiff realleges and incorporates paragraphs 1–71.
+
+73. Defendants hold profits derived from unlawful operations in constructive trust for donors subjected to unlicensed procedures.
+
+74. An equitable accounting is necessary to calculate restitution, penalties, and funding for medical monitoring and compensation.
+
+75. Plaintiff seeks appointment of a special master to conduct the accounting and recommend equitable distribution, including the Patient Compensation Fund described above.
+
+RESERVATION OF RIGHTS FOR RICO AND ADDITIONAL CLAIMS
+
+76. Plaintiff realleges and incorporates paragraphs 1–75.
+
+77. Defendants employ interstate wires and mails to solicit donors, coordinate data systems, transmit adverse event reports, and remit proceeds from plasma sales.
+
+78. Plaintiff anticipates that discovery will reveal a pattern of racketeering activity, including wire fraud and mail fraud, that may warrant RICO claims. See Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479, 496 (1985) (recognizing civil RICO standing for injury caused by predicate acts).
+
+79. Plaintiff reserves the right to amend this Complaint to add RICO and additional state-law claims upon discovery of further facts.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully requests that the Court enter judgment in his favor and against Defendants, and grant the following relief:
+
+A. Declaratory judgment that Defendants engage in the unlicensed practice of medicine in violation of Minn. Stat. §§ 147.081–.082;
+
+B. Declaratory judgment that Defendants' corporate structures violate Minnesota's prohibition on the corporate practice of medicine and are void as against public policy;
+
+C. Declaratory judgment that Defendants operate unlicensed health care facilities in violation of Minn. Stat. ch. 144 and related regulations;
+
+D. Injunctive relief prohibiting Defendants from performing plasmapheresis in Minnesota unless and until they obtain and maintain all licenses applicable to dialysis and extracorporeal treatment facilities, including compliance with Minn. Stat. chs. 144, 144A, 147, and associated regulations;
+
+E. Injunctive relief requiring Defendants to align donor selection, monitoring, and emergency response standards with dialysis clinic protocols, including physician staffing, laboratory access, infection control, and adverse event reporting;
+
+F. Assessment of statutory penalties under Minn. Stat. §§ 144A.10 and 147.082 for each day and each procedure performed in violation of Minnesota law;
+
+G. Restitution, disgorgement, and creation of a Court-supervised Patient Compensation Fund capitalized with no less than 2–3% of Minnesota plasma revenues over the statutory period, with per-donor distributions as set forth in paragraph 47 or as determined by the special master;
+
+H. Appointment of a special master to conduct an accounting of Defendants' Minnesota revenues, expenses, donor records, and adverse event data, and to recommend further equitable relief;
+
+I. Costs of investigation, litigation expenses, and reasonable attorney's fees pursuant to Minn. Stat. § 8.31, subd. 3a;
+
+J. Pre- and post-judgment interest as permitted by law; and
+
+K. Such other and further relief as the Court deems just and proper to protect the public health and enforce Minnesota law.
+
+DEMAND FOR JURY TRIAL
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+Dated: May 16, 2024
+
+Respectfully submitted,
+
+__________________________________
+Counsel for Plaintiff Brian Thomas Johnson
+[Address]
+[Telephone]
+[Email]
